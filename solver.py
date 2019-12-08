@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open(r'C:\Users\Wolf\Desktop\תכנות\maze\braid200.png')
+img = Image.open(r'C:\Users\braid200.png')
 width, height = img.size
 pixels = img.load()
 
